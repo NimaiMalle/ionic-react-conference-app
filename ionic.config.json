@@ -1,8 +1,9 @@
 {
   "name": "ionic-react-conference-app",
-  "type": "react",
   "integrations": {
     "cordova": {},
     "capacitor": {}
-  }
+  },
+  "type": "react",
+  "id": "84850e39"
 }
